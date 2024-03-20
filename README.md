@@ -9,4 +9,5 @@
 pip install pypdf2 langchain faiss-cpu openai sentence_transformers tiktoken
 ```
 5. Run the app_p1.py in terminal
-6. Ask several questions like 'What is ads?', 'Summarize this file' etc., and do the filming.
+6. Ask several questions like 'What is ads?', 'Summarize the ads cookbook pdf' etc., and do the filming.
+   You could skip the explanation of code bc I've already filmed it. Finally, upload your video to the drive.
