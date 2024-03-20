@@ -7,7 +7,7 @@ from langchain.memory import ConversationBufferMemory
 from langchain.chains import ConversationalRetrievalChain
 import os
 
-os.environ["OPENAI_API_KEY"] = "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"
+os.environ["OPENAI_API_KEY"] = "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"
 
 def get_pdf_text(pdf_path):
     with open(pdf_path, 'rb') as file:
